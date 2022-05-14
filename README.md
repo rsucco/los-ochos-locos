@@ -1,4 +1,4 @@
-# doubleskunk
+# los-ochos-locos
 
 Terminal-based crazy eights card game
 
